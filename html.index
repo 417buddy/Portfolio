@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Owolabi Yusuff | Platform Engineer</title>
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+    <!-- ==========================
+         NAVIGATION BAR
+    =========================== -->
+
+    <nav>
+
+        <div class="logo">
+
+            Owolabi Yusuff
+
+        </div>
+
+        <ul>
+
+            <li><a href="#home">Home</a></li>
+
+            <li><a href="#about">About</a></li>
+
+            <li><a href="#skills">Skills</a></li>
+
+            <li><a href="#projects">Projects</a></li>
+
+            <li><a href="#experience">Experience</a></li>
+
+            <li><a href="#contact">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+    <!-- ==========================
+         HERO SECTION
+    =========================== -->
+
+    <section id="home" class="hero">
+
+        <div class="hero-text">
+
+            <h1>
+
+                Hi,
+
+                I'm
+
+                <span>Owolabi Yusuff</span>
+
+            </h1>
+
+            <h2>
+
+                Platform Engineer • DevOps Engineer • Cloud Engineer
+
+            </h2>
+
+            <p>
+
+                I build secure cloud infrastructure, Kubernetes platforms,
+                Internal Developer Platforms (IDPs),
+                CI/CD pipelines,
+                Infrastructure as Code,
+                and cloud-native automation solutions that help engineering
+                teams deliver software faster and more reliably.
+
+            </p>
+
+            <div class="buttons">
+
+                <!-- Resume -->
+
+                <a href="resume/resume.pdf" target="_blank">
+
+                    <i class="fa-solid fa-file-arrow-down"></i>
+
+                    Download Resume
+
+                </a>
+
+                <!-- ==========================
+                     EDIT YOUR GITHUB HERE
+                =========================== -->
+
+                <a href="https://github.com/417buddy"
+                    target="_blank">
+
+                    <i class="fa-brands fa-github"></i>
+
+                    GitHub
+
+                </a>
+
+                <!-- ==========================
+                     EDIT YOUR LINKEDIN HERE
+                =========================== -->
+
+                <a href="https://www.linkedin.com/in/owolabi-yusuff-0301418a/" target="_blank">
+                    target="_blank">
+
+                    <i class="fa-brands fa-linkedin"></i>
+
+                    LinkedIn
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="hero-image">
+
+            <img src="images/profile.jpg"
+                alt="Owolabi Yusuff">
+
+        </div>
+
+    </section>
+
+    <!-- ==========================
+         ABOUT
+         (Coming Day 2)
+    =========================== -->
+
+    <section id="about">
+
+    </section>
+
+    <!-- ==========================
+         SKILLS
+         (Coming Day 2)
+    =========================== -->
+
+    <section id="skills">
+
+    </section>
+
+    <!-- ==========================
+         PROJECTS
+         (Coming Day 3)
+    =========================== -->
+
+    <section id="projects">
+
+    </section>
+
+    <!-- ==========================
+         EXPERIENCE
+         (Coming Day 2)
+    =========================== -->
+
+    <section id="experience">
+
+    </section>
+
+    <!-- ==========================
+         CONTACT
+         (Coming Day 3)
+    =========================== -->
+
+    <section id="contact">
+
+    </section>
+
+    <!-- ==========================
+         FOOTER
+    =========================== -->
+
+    <footer>
+
+        <p>
+
+            © 2026 Owolabi Yusuff |
+
+            Built with HTML, CSS & JavaScript
+
+        </p>
+
+    </footer>
+
+    <!-- JavaScript -->
+
+    <script src="assets/js/script.js"></script>
+
+</body>
+
+</html>
