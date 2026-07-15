@@ -98,7 +98,7 @@ Created an extensible CLI that forms the operational backbone of the StackBridge
 
 ## Overview
 
-Built and secured **OpsShield**, a cloud-native SaaS platform hosted on AWS, implementing secure infrastructure, CI/CD pipelines, cloud automation, and operational best practices.
+Built and secured **OpsShield**, a cloud-native SaaS platform hosted on AWS, implementing secure infrastructure, CI/CD pipelines, cloud automation, and operational best practices.Internal Operation Platform with JWT Authentication, IDOR-Protected Routes, append only audit logging with SHA-256 HashChain, Ppaystack Payment Integration, and CI/CD Pipeline Security Scanning (Trivy, SemGrep, GitLeaks), implented task management network flows and member invited systems.
 
 ## Key Features
 
